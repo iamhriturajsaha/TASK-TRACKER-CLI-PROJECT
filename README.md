@@ -1,6 +1,6 @@
 # 📝 Task Tracker CLI Project
 
-A lightweight and intuitive Command-Line Interface (CLI) tool for managing your daily tasks. Built with Python, it stores tasks locally in JSON format—no database setup required.
+A lightweight and intuitive Command-Line Interface (CLI) tool for managing your daily tasks. Built with Python, it stores tasks locally in JSON format, no database setup required.
 
 ## ✨ Features
 

@@ -21,7 +21,7 @@ A lightweight and intuitive Command-Line Interface (CLI) tool for managing your 
 
 ### Installation
 
-1. **Clone the repository - **
+1. **Clone the repository -**
    ```bash
    git clone https://github.com/iamhriturajsaha/TASK-TRACKER-CLI-PROJECT
    cd TASK-TRACKER-CLI-PROJECT

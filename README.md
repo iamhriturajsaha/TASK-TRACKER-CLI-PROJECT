@@ -155,18 +155,6 @@ task-env\Scripts\activate
 python Task Tracker.py --help
 ```
 
-### Alias for Quick Access
-Add to your shell profile (`.bashrc`, `.zshrc`, etc.):
-```bash
-alias tasks="python /path/to/Task Tracker.py"
-```
-
-Then use -
-```bash
-tasks add "New task"
-tasks list
-```
-
 ## 🧹 Maintenance
 
 ### Reset All Tasks
@@ -184,8 +172,3 @@ cp tasks.json tasks_backup.json
 # Restore from backup
 cp tasks_backup.json tasks.json
 ```
-
-
-
-
-

@@ -172,7 +172,3 @@ cp tasks.json tasks_backup.json
 # Restore from backup
 cp tasks_backup.json tasks.json
 ```
-
-
-
-
